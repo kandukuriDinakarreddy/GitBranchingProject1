@@ -13,7 +13,8 @@ function checkFile() {
     if (fileType.includes("image") || fileType.includes("video")) {
 
         if (fileSizeMB < 1) {
-            result.innerText = "Result: Possibly AI Generated (low file size)";
+            result.innerText = "Result: Possibly AI Generated (Detected artificial patterns)";
+
         } else {
             result.innerText = "Result: Likely Real Media";
         }
