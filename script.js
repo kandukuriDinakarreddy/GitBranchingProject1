@@ -3,9 +3,11 @@ function checkFile() {
     const result = document.getElementById("result");
 
     if (!file) {
-        result.innerText = "Please upload a file first.";
-        return;
-    }
+    result.style.color = "red";
+    result.innerText = "Error: No file uploaded. Please select an image or video.";
+    return;
+}
+
 
     const fileSizeMB = file.size / (1024 * 1024);
     const fileType = file.type;
