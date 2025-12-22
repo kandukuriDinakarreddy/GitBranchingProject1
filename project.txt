@@ -1,4 +1,4 @@
 Project Name: AI Media Detection Website
-Version: 2.0 - Main Branch Update
+Version: 2.0 - Main Branch Updated
 
 Status: Development
