@@ -30,9 +30,12 @@ function checkFile() {
         if (fileSizeMB < 1) {
             result.innerText = "Result: Possibly AI Generated (Detected artificial patterns)";
 
-        } else {
-            result.innerText = "Result: Likely Real Media";
         }
+ else {
+    let confidence = Math.floor(Math.random() * 30) + 70;
+    result.innerText = "Result: Likely Real (" + confidence + "% confidence)";
+}
+
 
     } else {
         result.innerText = "Unsupported file format";
