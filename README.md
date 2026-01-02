@@ -160,3 +160,17 @@ The website allows users to:
 
 \- ChatGPT (OpenAI)
 
+##  Screenshots
+
+![merge conflict](screenshots/Merge Conflict.png.png
+
+
+![merge conflict](screenshots/Merge Conflict 1.png.png
+
+
+![merge conflict](screenshots/Merge Conflict 2.png.png
+
+
+![merge conflict](screenshots/branches.png.png
+
+
