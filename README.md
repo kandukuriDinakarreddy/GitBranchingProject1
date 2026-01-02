@@ -163,13 +163,13 @@ The website allows users to:
 ## 📸 Screenshots
 
 ### 🔀 Merge Conflict Example
-![Merge Conflict](screenshots/merge_conflict.png)
+![Merge Conflict](screenshots/Merge_conflict.png)
 
 ### 🔀 Merge Conflict Resolution
-![Merge Conflict 1](screenshots/merge_conflict_1.png)
+![Merge Conflict 1](screenshots/Merge_conflict_1.png)
 
 ### 🔀 Final Resolved Conflict
-![Merge Conflict 2](screenshots/merge_conflict_2.png)
+![Merge Conflict 2](screenshots/Merge_conflict_2.png)
 
 ### 🌿 Git Branches View
 ![Branches](screenshots/branches.png)
