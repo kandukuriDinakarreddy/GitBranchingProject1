@@ -169,7 +169,7 @@ The website allows users to:
 ![Merge Conflict 1](screenshots/Merge_Conflict_1.png)
 
 ### 🔀 Final Resolved Conflict
-![Merge Conflict 2](screenshots/Merge_Conflict_2.png)
+![Merge Conflict 2](screenshots/Merge_Conflict_ 2.png)
 
 ### 🌿 Git Branches View
 ![Branches](screenshots/branches.png)
