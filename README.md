@@ -160,17 +160,17 @@ The website allows users to:
 
 \- ChatGPT (OpenAI)
 
-##  Screenshots
+## 📸 Screenshots
 
-![merge conflict](screenshots/Merge Conflict.png.png
+### 🔀 Merge Conflict Example
+![Merge Conflict](screenshots/merge_conflict.png)
 
+### 🔀 Merge Conflict Resolution
+![Merge Conflict 1](screenshots/merge_conflict_1.png)
 
-![merge conflict](screenshots/Merge Conflict 1.png.png
+### 🔀 Final Resolved Conflict
+![Merge Conflict 2](screenshots/merge_conflict_2.png)
 
-
-![merge conflict](screenshots/Merge Conflict 2.png.png
-
-
-![merge conflict](screenshots/branches.png.png
-
+### 🌿 Git Branches View
+![Branches](screenshots/branches.png)
 
